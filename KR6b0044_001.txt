@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:37.303253
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:57
 #+TITLE: 異出菩薩本起經
 #+PROPERTY: CBETA_ID T03n0188
 #+PROPERTY: ID KR6b0044
